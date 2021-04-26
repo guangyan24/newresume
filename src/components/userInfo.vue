@@ -1,7 +1,8 @@
 <template>
     <div>
         <div class="user-head-box">
-            <img class="user-head" src="static/images/user.jpeg" alt="guangyan">
+            <!-- <img class="user-head" src="static/images/user.jpeg" alt="guangyan"> -->
+            <img class="user-head" src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=489846772,2186389734&fm=26&gp=0.jpg" alt="guangyan">
             <h3 class="title">Guangyan的简历</h3>
         </div>
         <div class="basic-info-box">
