@@ -84,9 +84,14 @@ html,body{
 }
 
 @media screen and (max-width:819px) {
+    #app{
+      width: 100%;
+      overflow: hidden;
+    }
     .container{
       width: 100%;
       box-shadow: none;
+      margin: 0;
     }
     .left-box{
       position: relative;
@@ -101,6 +106,9 @@ html,body{
       border-bottom-left-radius: 5px;
       border-bottom-right-radius: 5px;
       border-top-right-radius: 0px;
+    }
+    .introduce-box .introduce-content{
+      padding-right: 10px;
     }
 }
 </style>

@@ -42,7 +42,7 @@
         <div class="job-box" style="margin-bottom:20px;">
             <h2 class="job-title yellow-background">求职意向</h2>
             <ul class="job-ul">
-                <li><span>python研发工程师/机器学习相关职位</span></li>
+                <li><span>python研发工程师/机器学习</span></li>
             </ul>
         </div>
         <div class="introduce-box">
